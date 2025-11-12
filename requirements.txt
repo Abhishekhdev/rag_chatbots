@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+openai
+tiktoken
+pypdf
+pytesseract
+Pillow
+python-dotenv
+Flask
+Flask-Cors
