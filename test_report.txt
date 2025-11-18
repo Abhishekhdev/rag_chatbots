@@ -1,0 +1,19 @@
+🧾 RAG AGENT TEST REPORT
+============================================================
+
+ENV-001 - ✅ PASS
+Expected: All dependencies should be installed
+Actual:   Dependencies OK
+
+FAISS-001 - ✅ PASS
+Expected: FAISS index should be created
+Actual:   Index files exist
+
+FAISS-002 - ✅ PASS
+Expected: Existing index should load successfully
+Actual:   Loaded successfully
+
+RET-001 - ✅ PASS
+Expected: Should return relevant chunk
+Actual:   Canara Engineering College is located in Mangalore.
+
